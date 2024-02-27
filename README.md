@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Guatemala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jchanquin-2022240&label=Profile%20views&color=0e75b6&style=flat" alt="jchanquin-2022240" /> </p>
 
